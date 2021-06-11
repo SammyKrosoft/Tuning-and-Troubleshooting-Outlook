@@ -1,5 +1,5 @@
 # Tuning and Troubleshooting Outlook
-> By Wade Smith – Microsoft Engineer
+> By **Wade Smith** – Microsoft Engineer
 
 ## 1.	Outlook data files can not be scanned by AV software.  Any OST or PST file should not be scanned.
 
