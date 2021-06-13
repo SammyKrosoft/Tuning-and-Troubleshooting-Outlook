@@ -1,15 +1,15 @@
 # Tuning and Troubleshooting Outlook
 > By **Wade Smith** – Microsoft Engineer
 
-## 1.	Outlook data files can not be scanned by AV software.  Any OST or PST file should not be scanned.
+### 1.	Outlook data files can not be scanned by AV software.  Any OST or PST file should not be scanned.
 
 [Planning considerations for deploying Outlook for Windows](https://docs.microsoft.com/en-us/outlook/troubleshoot/deployment/plan-outlook-2016-deployment#outlook-security-considerations)
 
-## 2.	Verify mailbox sizes and ensure no one is approaching the 10GB mark.    Once an OST file hits 10GB, Outlook will start to experience minor performance delays and hangs.  If the OST approaches 20GB, performance issues will become more significant and Outlook may crash.
+### 2.	Verify mailbox sizes and ensure no one is approaching the 10GB mark.    Once an OST file hits 10GB, Outlook will start to experience minor performance delays and hangs.  If the OST approaches 20GB, performance issues will become more significant and Outlook may crash.
 
 [You may experience application pauses if you have a large Outlook data file](https://support.microsoft.com/en-us/help/2759052/you-may-experience-application-pauses-if-you-have-a-large-outlook-data)
 
-## 3.	Microsoft provides recommendations on the number of mail items in folders, the number of folders, the number of items in calendars, and the number of items in shared mailboxes that a user can have before performance will degrade.
+### 3.	Microsoft provides recommendations on the number of mail items in folders, the number of folders, the number of items in calendars, and the number of items in shared mailboxes that a user can have before performance will degrade.
 
 [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/en-us/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 
